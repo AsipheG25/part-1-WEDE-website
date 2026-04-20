@@ -69,7 +69,7 @@ REFERENCES
 Class notes and lecture materials
 W3Schools (https://www.w3schools.com/)
 MDN Web Docs (https://developer.mozilla.org/)
-Images sourced from free platforms (e.g., Unsplash, Pexels)
+Images sourced from google
 
 HOW TO RUN THE PROJECT
 Download or clone the repository
